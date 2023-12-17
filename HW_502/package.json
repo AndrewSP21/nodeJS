@@ -1,0 +1,17 @@
+{
+  "name": "USDRUB_Year",
+  "version": "1.0.0",
+  "description": "Saving the annual dollar exchange rate in rubles to a file",
+  "main": "USDRUBYEAR.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Serov Andrew",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^11.2.0",
+    "node-fetch": "2.7.0",
+    "xml-js": "^1.6.11"
+  }
+}
