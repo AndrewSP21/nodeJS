@@ -1,14 +1,18 @@
 {
-  "name": "USDRUB_Year",
-  "version": "1.0.0",
+  "name": "usd_rub_year",
+  "version": "1.0.1",
   "description": "Saving the annual dollar exchange rate in rubles to a file",
-  "main": "USDRUBYEAR.js",
+  "main": "usd_course.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "USD/RUB",
+    "Course USD/RUB"
+  ],
   "author": "Serov Andrew",
   "license": "ISC",
+  "repository": "https://github.com/AndrewSP21/nodeJS/commit/a5bb65a85304f3db3fb7aa6604f297e411063e99#diff-d0fc163f6c358e6b82704e45cf48db58385f0fee3a67a5b53e2074039dabb313",
   "dependencies": {
     "fs-extra": "^11.2.0",
     "node-fetch": "2.7.0",
