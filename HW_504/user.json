@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "age": 30,
+    "lastName": "Pupkin",
+    "firstName": "Vasya",
+    "city": "Moscow"
+  },
+  {
+    "id": 3,
+    "age": 30,
+    "lastName": "Pupkin",
+    "firstName": "Vasya",
+    "city": "Moscow"
+  },
+  {
+    "id": 4,
+    "age": 225,
+    "lastName": "Poddubniy",
+    "firstName": "Makar",
+    "city": "Moscow"
+  },
+  {
+    "id": 6,
+    "age": 30,
+    "lastName": "Pupkin",
+    "firstName": "Vasya",
+    "city": "Moscow"
+  }
+]
